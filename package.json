@@ -1,0 +1,9 @@
+{
+  "name": "pulumi-helm-import-issue",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@pulumi/kubernetes": "^1.4.0",
+    "@pulumi/pulumi": "^1.7.0"
+  }
+}
