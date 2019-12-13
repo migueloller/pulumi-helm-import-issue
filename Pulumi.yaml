@@ -1,0 +1,3 @@
+name: pulumi-helm-import-issue
+runtime: nodejs
+main: src
